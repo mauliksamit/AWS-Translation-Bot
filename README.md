@@ -1,4 +1,4 @@
-**Project Overview:** Allows users to chat with Amazon Lex on their Management Console and translate to and from languages like French, German, English, etc.
+**Amazon Web Services (AWS) Project Overview:** Allows users to chat with Amazon Lex on their Management Console and translate to and from languages like French, German, English, etc.
 
 **lex_setup.py** contains code for the AWS Lambda function that connects Amazon Translation and Amazon Lex.
 
